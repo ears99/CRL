@@ -9,3 +9,13 @@ The error is as follows (according to gbd):
 > mvaddch\(user->position.y, user->position.x, level\[user->position.y\]\[user->position.x\]\);
 
 I'd greatly appreciate help in solving this problem with it segfaulting, thank you.
+
+# CONTROLS
+As of right now there's only basic movement controls - no inventory system, no attacking (there's no monsters yet, anyway) and quit functionality.
+
+The controls (so far) are as follows:
+  * W/w move up
+  * A/a move left
+  * D/d move right
+  * S/s move down
+  * q quit game
