@@ -10,7 +10,7 @@ The error is as follows (according to gbd):
 
 I'd greatly appreciate help in solving this problem with it segfaulting, thank you.
 
-When playing the game, this error manifests itself as being unable to walk off of the last row in the second room. Once you get to the bottom row of empty spaces, trying to move in any direction will cause the segfault. As long as you don't walk over that row, the game works fine.
+When playing the game, this error manifests itself as being unable to walk off of the bottom row in the second room. Once you get to the bottom row of empty spaces, trying to move in any direction will cause the segfault. As long as you don't walk over that row, the game works fine.
 
 # CONTROLS
 As of right now there's only basic movement controls - no inventory system, no attacking (there's no monsters yet, anyway) and quit functionality.
