@@ -13,8 +13,8 @@ I'd greatly appreciate help in solving this problem with it segfaulting, thank y
 When playing the game, this error manifests itself as being unable to walk off of the bottom row in the second room. Once you get to the bottom row of empty spaces, trying to move in any direction will cause the segfault. As long as you don't walk over that row, the game works fine.
 
 # CONTROLS
-As of right now there's only basic movement controls and quit functionality.
- - no inventory system, no attacking (there's no monsters yet, anyway) 
+As of right now there's only basic movement controls and quit functionality - no inventory system, no attacking (there's no monsters yet, anyway). 
+
 The controls (so far) are as follows:
   * W/w move up
   * A/a move left
